@@ -10,6 +10,7 @@
     "react-component",
     "react-native",
     "android-auto-update",
+    "react-native-android-auto-update",
     "android"
   ],
   "peerDependencies": {
@@ -19,12 +20,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ribuluo000/android-auto-update.git"
+    "url": "git+https://github.com/ribuluo000/react-native-android-auto-update.git"
   },
   "bugs": {
-    "url": "https://github.com/ribuluo000/android-auto-update/issues"
+    "url": "https://github.com/ribuluo000/react-native-android-auto-update/issues"
   },
-  "homepage": "https://github.com/ribuluo000/android-auto-update.git",
+  "homepage": "https://github.com/ribuluo000/react-native-android-auto-update.git",
   "rnpm": {
     "android": {
       "packageInstance": "new AndroidAutoUpdatePackage()"
