@@ -42,7 +42,7 @@ public class AndroidAutoUpdateModule extends ReactContextBaseJavaModule implemen
 
 
     @ReactMethod
-    public void goToDownloadApk(url) {
+    public void goToDownloadApk(String url) {
         final Activity activity = getCurrentActivity();
         if (activity == null) {
             return;
@@ -53,7 +53,11 @@ public class AndroidAutoUpdateModule extends ReactContextBaseJavaModule implemen
 
     @ReactMethod
     public void getAppVersionCode(Callback callback) {
-	    int versionCode = AppUtils.getVersionCode(mContext);
+	            final Activity activity = getCurrentActivity();
+        if (activity == null) {
+            return;
+        }
+        int versionCode = AppUtils.getVersionCode(activity);
 		callback.invoke(versionCode);
     }
 
