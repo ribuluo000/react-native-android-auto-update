@@ -1,0 +1,33 @@
+{
+  "name": "react-native-android-auto-update",
+  "version": "1.0.1",
+  "description": "安卓软件更新，这个库暴露出了下载并安装接口来实现更新apk,之前的逻辑以及界面都由RN实现。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android-auto-update",
+    "android"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.5"
+  },
+  "author": "ribuluo000",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribuluo000/android-auto-update.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ribuluo000/android-auto-update/issues"
+  },
+  "homepage": "https://github.com/ribuluo000/android-auto-update.git",
+  "rnpm": {
+    "android": {
+      "packageInstance": "new AndroidAutoUpdatePackage()"
+    }
+  }
+}
