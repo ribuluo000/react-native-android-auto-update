@@ -1,5 +1,6 @@
 {
   "url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.2.apk",
   "versionCode":32,
-  "updateMessage":"v2.3.2 content；\nv2.3.2 测试消息；\n修复了XXXBug；\n优化了界面显示显示显示显示显示。"
+  "versionName":"v2.3.2.0",
+  "updateMessage":"界面显示优化；\n添加了更改产品、设备功能；\n图片显示效果优化。\n"
 }
