@@ -1,6 +1,6 @@
 {
   "url":"http://qiniu-e.yoopard.com/installpackage/bolt.apk",
-  "versionCode":41,
-  "versionName":"v2.4.1.0",
-  "updateMessage":"\n界面显示优化；\n修复了部分手机签名功能失效的Bug；\n修复了部分手机在工单详情页会有卡顿现象的Bug。\n"
+  "versionCode":52,
+  "versionName":"v2.5.2.0",
+  "updateMessage":"\n界面显示优化；\n修复了部分已知的Bug。\n"
 }
