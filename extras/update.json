@@ -1,6 +1,6 @@
 {
   "url":"http://qiniu-e.yoopard.com/installpackage/bolt.apk",
-  "versionCode":55,
-  "versionName":"v2.5.5.0",
-  "updateMessage":"\n界面显示优化；\n首页待接单、待处理跳转到工单对应的Tab页；\n修复了部分已知的Bug。\n"
+  "versionCode":57,
+  "versionName":"v2.5.7.0",
+  "updateMessage":"\n界面显示优化；\n修复了部分权限问题；\n添加了转单功能；\n修复了部分已知的Bug。\n"
 }
