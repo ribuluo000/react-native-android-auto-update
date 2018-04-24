@@ -1,5 +1,6 @@
 {
-  "url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.2.apk",
+  "url":"http://qiniu-e.yoopard.com/installpackage/haofuwu.apk",
+  "oUrl":"http://qiniu-e.yoopard.com/installpackage/haofuwu.apk",
   "versionCode":32,
   "versionName":"v2.3.2.0",
   "updateMessage":"\n界面显示优化；\n添加了更改产品、设备功能；\n图片显示效果优化。\n"

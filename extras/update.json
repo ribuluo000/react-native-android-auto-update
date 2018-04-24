@@ -1,5 +1,6 @@
 {
   "url":"http://qiniu-e.yoopard.com/installpackage/bolt.apk",
+  "oUrl":"http://qiniu-e.yoopard.com/installpackage/bolt.apk",
   "versionCode":57,
   "versionName":"v2.5.7.0",
   "updateMessage":"\n界面显示优化；\n修复了部分权限问题；\n添加了转单功能；\n修复了部分已知的Bug。\n"
