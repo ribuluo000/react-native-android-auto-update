@@ -1,6 +1,6 @@
 {
-  "url":"http://after-service.cpc2025.com/download/",
-  "oUrl":"http://qiniu-e.yoopard.com/installpackage/chuangxinshouhou.apk",
+  "bad_url":"http://after-service.cpc2025.com/download/",
+  "url":"http://qiniu-e.yoopard.com/installpackage/chuangxinshouhou.apk",
   "versionCode":61,
   "versionName":"v2.6.1.0",
   "updateMessage":"\n界面显示优化；\n图片显示效果优化。\n"
